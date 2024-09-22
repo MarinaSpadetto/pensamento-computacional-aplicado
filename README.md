@@ -13,5 +13,5 @@
 
 3. Rodar o arquivo main.py
    ```
-   python main.py
+   python aula_10/main.py
    ```
